@@ -21,3 +21,8 @@
 ## 构建应用
 
 - [Streamlit](https://github.com/streamlit/streamlit): 构建数据应用程序的最快方法。
+
+## 模型可视化
+
+- [Netron](https://github.com/lutzroeder/netron): 用于神经网络，深度学习和机器学习模型的可视化工具。
+- [TensorBoard](https://github.com/tensorflow/tensorboard): 一个强大的模型可视化工具！
