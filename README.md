@@ -11,8 +11,9 @@
 
 ## 数据标注
 
+- [MarkTool](https://github.com/FXLP/MarkTool): 一款基于 Web 的开源通用文本标注工具，支持大规模实体标注、关系标注、事件标注、文本分类等。
 - [roLabelImg](https://github.com/cgvict/roLabelImg): 一个图形图像批注工具，可以标记旋转的矩形区域。
-- [Yolo_mark](https://github.com/AlexeyAB/Yolo_mark): 用于在图像中标记对象的边界框，以训练 YOLO v3和v2。
+- [Yolo_mark](https://github.com/AlexeyAB/Yolo_mark): 用于在图像中标记对象的边界框，以训练 YOLO v3 和 v2。
 - [darknet_scripts](https://github.com/Jumabek/darknet_scripts): 生成 YOLO 锚点。
 - [Bbox-label-tool](https://github.com/puzzledqs/BBox-Label-Tool): 标注 BBox。
 - [video_labeler](https://github.com/hahnyuan/video_labeler): 一个方便地标记视频中对象的工具，提供使用强大的对象跟踪功能。
