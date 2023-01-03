@@ -19,7 +19,9 @@
 - [Bbox-label-tool](https://github.com/puzzledqs/BBox-Label-Tool): 标注 BBox。
 - [video_labeler](https://github.com/hahnyuan/video_labeler): 一个方便地标记视频中对象的工具，提供使用强大的对象跟踪功能。
 - [semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor): 一个用于位图图像和点云的 Web 标注工具。
-- [cvat](https://github.com/opencv/cvat): 强大高效的计算机视觉注释工具。
+- [CVAT](https://github.com/opencv/cvat): 强大高效的计算机视觉注释工具。
+- [SAnE](https://github.com/hasanari/sane): 点云数据的智能标注和评估工具。
+- [SUSTechPOINTS](https://github.com/naurril/SUSTechPOINTS): 自动驾驶三维点云标注平台。
 
 ## 构建应用
 
